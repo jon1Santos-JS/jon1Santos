@@ -1,16 +1,25 @@
-### Hi there 👋
+ ### **Hello, I am João Paulo**
+ ---
 
-<!--
-**jon1Santos/jon1Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jon1Santos&show_icons=true&theme=tokyonight&hide_border=true" />  
+ <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon1Santos&langs_count=5&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
+<br/>
+<div align="center">
+   <img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+   <img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+   <img align="left" height="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+   <img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+</div>
 
-Here are some ideas to get you started:
+<span style="font-family: 'Consolas';">foo</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+          
+
