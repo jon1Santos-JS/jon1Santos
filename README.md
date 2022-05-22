@@ -18,7 +18,6 @@
    <img align="left" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 
-<span style="font-family: 'Consolas';">foo</span>
 
 
           
